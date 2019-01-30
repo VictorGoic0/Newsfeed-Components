@@ -97,10 +97,14 @@
   bottom: 0;
   left: 50%;
   font-size: 12px;
-  color: grey;
+  color: white;
   cursor: pointer;
   transform: translate(-50%);
-  background-color: white;
+  background-color: black;
+  border: 1px solid black;
+  width: 100px;
+  height: 30px;
+  border-radius: 6px;
 }
 .article-open {
   height: 400px;
