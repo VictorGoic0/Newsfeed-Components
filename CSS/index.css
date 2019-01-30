@@ -106,6 +106,10 @@
   height: 30px;
   border-radius: 6px;
 }
+.article .expandButton:hover {
+  border: 1px solid #d60000;
+  color: #d60000;
+}
 .article-open {
   height: 400px;
 }
@@ -117,6 +121,10 @@
   height: 30px;
   border-radius: 6px;
   cursor: pointer;
+}
+.expandButton:hover {
+  border: 1px solid #d60000;
+  color: #d60000;
 }
 html,
 body {
