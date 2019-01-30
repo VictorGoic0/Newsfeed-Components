@@ -109,6 +109,15 @@
 .article-open {
   height: 400px;
 }
+.expandButton {
+  color: white;
+  background-color: black;
+  border: 1px solid black;
+  width: 100px;
+  height: 30px;
+  border-radius: 6px;
+  cursor: pointer;
+}
 html,
 body {
   margin: 0;
