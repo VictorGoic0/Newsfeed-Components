@@ -113,7 +113,10 @@
 .article-open {
   height: 400px;
 }
-.expandButton {
+.close {
+  display: none;
+}
+.hideButton {
   color: white;
   background-color: black;
   border: 1px solid black;
@@ -122,7 +125,7 @@
   border-radius: 6px;
   cursor: pointer;
 }
-.expandButton:hover {
+.hideButton:hover {
   border: 1px solid #d60000;
   color: #d60000;
 }
